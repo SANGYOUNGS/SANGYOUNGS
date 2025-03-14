@@ -1,0 +1,17 @@
+package com.ex;
+
+public class Myinfoex {
+
+	public static void main(String[] args) {
+		Myinfo a = new Myinfo();
+		Myinfo b = new Myinfo();
+		Myinfo c = new Myinfo();
+		
+		a.name = "가길동";
+		b.name = "나길동";
+		c.name = "다길동";
+		
+		System.out.println("이름 : " + a.name);
+	}
+
+}

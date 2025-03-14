@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="LaunchTerminalSettingsDialog">
+		<item key="terminalLabel" value="&apos;wsl --install&apos;을 사용하여 설치에 사용할 수 있는 배포 목록을 표시합니다. (WSL)"/>
+		<section name="SettingsPanelControl">
+			<section name="&apos;wsl --install&apos;을 사용하여 설치에 사용할 수 있는 배포 목록을 표시합니다. (WSL)">
+				<item key="encoding" value="UTF-8"/>
+			</section>
+		</section>
+	</section>
+</section>

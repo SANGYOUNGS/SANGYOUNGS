@@ -1,0 +1,22 @@
+package com.switchex;
+
+/*  문 ] 
+ *        커피 메뉴의 가격을 알려주는 프로그램을 작성
+ *  		에소프레소 , 카푸치노, 카페라떼 -> 3500원 
+ * 			아메리카노 = > 2000원
+ * 			우의 메뉴가 아니면 => 메뉴에 없습니다.
+ * 
+ */
+import java.util.*;
+
+public class SwitchEx04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("커피 선택");
+		String coffee = sc.nextLine();
+		System.out.println(coffee);
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.example;
+
+/*
+ *  문] 
+ * 			사용자로 부터 임의의 정수를 입력 받아
+ * 			1부터 입력 받은 수까지 의 전체 합계와 짝수의 합계 및 홀수의 합계를 
+ * 			출력하는 프로그램을 작성하시오
+ * 
+ */
+
+import java.util.*;
+public class forEx006 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner
+	}
+
+}

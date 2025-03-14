@@ -1,0 +1,15 @@
+package com.ex;
+
+public class Myinfo {
+	 // 배열 선언
+    String[] names;
+
+    // 배열 초기화
+    names = new String[]{"이상영", "이상영"};
+	int age =28;
+	int age1 =25 ;
+	char gender ='남';
+	char gender1 ='남';
+	String addr ="서울특별시 구로구";
+	String addr1 ="서울특별시 영등포";
+}

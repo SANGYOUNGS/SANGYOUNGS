@@ -1,0 +1,7 @@
+package com.ex;
+
+public class Myinfo {
+	String name ="이상영";
+	char gender ='남';
+	String addr ="서울특별시 구로구";
+}

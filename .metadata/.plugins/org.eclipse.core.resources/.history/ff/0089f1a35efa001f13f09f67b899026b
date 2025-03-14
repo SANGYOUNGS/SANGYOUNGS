@@ -1,0 +1,20 @@
+package com.ex;
+
+public class MemberEx {
+
+	public static void main(String[] args) {
+		Member m = new Member();
+		m.name ="홍길동";
+		m.age = 34;
+		m.gender='남';
+		m.tel="010-1111-1111";
+		m.addr="서울특별시 영등포구 영종로 4가 글로벌인";
+		
+		System.out.println("이름 :" + m.name);
+		System.out.println("나이 : " + m.age);
+		System.out.println("성별 : " + m.gender);
+		System.out.println("전화번호 : " + m.tel);
+		System.out.println("주소 : " + m.addr);
+	}
+
+}

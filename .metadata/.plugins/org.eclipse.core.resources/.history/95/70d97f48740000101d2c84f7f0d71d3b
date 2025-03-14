@@ -1,0 +1,24 @@
+package com.forEx;
+
+/*2 3 4
+  5 6 7 
+	8 9
+*/	
+public class WhileEx01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i = 2 , j; // 초기값
+		
+		do {
+			j=1;
+			do { 
+				System.out.printf("%d x %d = %d%n\t",i,j,i*j);
+				j++;
+			}while(j <=9);
+			System.out.println();
+			i++;
+		} while(i <=9 );
+	}
+
+}

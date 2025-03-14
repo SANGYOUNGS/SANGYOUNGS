@@ -1,0 +1,24 @@
+package com.ex;
+/*
+ * 
+ * 		Wrapper Class : 기본 데이터 자료형의 Class 화
+ * 
+ * 		byte -> Byte short ->  Short,  int -> Integer , long -> Long
+ * 		float -> Float, 	double -> Double
+ * 		boolean -> Boolean
+ * 		char ->
+ * 
+ */
+
+
+public class WrapperEx {
+
+	public static void main(String[] args) {
+		
+		byte a_min = Byte.MIN_VALUE;
+		System.out.println(a_min);
+		
+
+	}
+
+}

@@ -1,0 +1,28 @@
+package com.ifex;
+import java.util.*;
+/*
+ *  주민번호  7번째 자리를 입력받아 연대와 성별을 출력하는 
+ *  1800 0 남자 9 여자
+ * 	 1900 1남자  2 여자
+ * 	 2000 3남자  4여자
+ *  7번째 자리 입력 : 4 
+ * 	당신은 2000년대생 여성입니다.
+ * 
+ */
+public class ifEx08 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc =new Scanner(System.in);
+		System.out.println("주민번호 7번 째입력");
+		int a; //7번째 입력
+		a = sc.nextInt();
+		switch(a) {
+			case 1:
+			case 2:
+				System.out.println("1900년 대생입니다.");
+			break;
+		};
+	}
+
+}
