@@ -8,6 +8,7 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value=""/>
 		<list key="findhistory">
+			<item value="package com.student;"/>
 			<item value="subname.length"/>
 			<item value="&#x09;    do {"/>
 			<item value=""/>
